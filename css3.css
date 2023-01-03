@@ -1,0 +1,27 @@
+#a1
+{
+    border: 2px solid blue;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: rgb(102, 0, 51) ;
+    color: #ccffcc;
+}
+#a2
+{
+    border: 2px solid red;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: rgb(102, 0, 51) ;
+    color: #ccffcc;
+}
+#a3
+{
+    border: 3px dotted green;
+    border-radius: 20px;
+    background-color: rgb(102, 0, 51) ;
+    color: #ccffcc;
+}
+body{
+    text-align: center;
+}

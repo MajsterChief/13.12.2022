@@ -1,0 +1,27 @@
+#top
+{
+    font-size: 2cm;
+    color: green;
+}
+#a1
+{
+    border-top: red 3px dashed;
+    border-bottom: 5px double green;
+}
+#a2
+{
+    border-top: red 3px dashed;
+}
+#a3
+{
+    border-top: red 3px dashed;
+}
+#a4
+{
+    border-top: red 3px dashed;
+}
+#a5
+{
+    border-top: red 3px dashed;
+    border-left: 10px dotted blue;
+}
